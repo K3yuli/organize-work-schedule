@@ -29,9 +29,9 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Links
-# Deployed Website
+### Deployed Website
 https://k3yuli.github.io/organize-work-schedule/
 
-# GitHub
+### GitHub
 https://github.com/K3yuli/organize-work-schedule
 
