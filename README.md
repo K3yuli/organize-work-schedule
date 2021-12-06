@@ -28,3 +28,10 @@ WHEN I refresh the page
 <br>
 THEN the saved events persist
 
+## Links
+# Deployed Website
+https://k3yuli.github.io/organize-work-schedule/
+
+# GitHub
+https://github.com/K3yuli/organize-work-schedule
+
