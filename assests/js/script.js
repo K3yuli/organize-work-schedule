@@ -12,12 +12,8 @@ document.getElementById("currentDay").innerHTML = (("0" + dt.getDate()).slice(-2
 
 // when i click the save button for that time block
 // then the text for that event is saved in local storage
-var buttonEl = document.querySelector("#saveButton");
 
-buttonEl.addEventListener("click", function() {
-    console.log("button clicked");
 
-});
 
 
 // when i refresh the page
