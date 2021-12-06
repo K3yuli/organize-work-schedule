@@ -7,7 +7,7 @@ GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 <br>
 THEN the current day is displayed at the top of the calendar
-
+<br>
 WHEN I scroll down
 <br>
 THEN I am presented with time blocks for standard business hours
